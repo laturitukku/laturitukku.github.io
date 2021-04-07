@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+	<!-- <meta http-equiv="Content-Security-Policy" 
+	content="default-src 'self'; img-src 'self' https://*.stripe.com; connect-src 'self' https://api.stripe.com https://checkout.stripe.com; frame-src 'self' https://checkout.stripe.com 
+			https://js.stripe.com https://hooks.stripe.com; script-src 'self' https://checkout.stripe.com https://js.stripe.com;"> -->
+	<meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src * 'self' 'unsafe-inline' localhost:* checkout.stripe.com 'unsafe-eval';">
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='/favicon.png'>
+	<link rel='stylesheet' href='/build/bundle.css'>
+	
+	<script src="https://js.stripe.com/v3/"></script>
+	<script defer src='/build/bundle.js'></script>
+</head>
+
+<body>
+</body>
+</html>
