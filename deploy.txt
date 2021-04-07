@@ -10,10 +10,3 @@ git push
 node ./gh-pages.js
 
 
-___________________________
-
-##update source
-
-git add .
-git commit -m "source files"
-git push orgin main

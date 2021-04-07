@@ -1,12 +1,10 @@
 {
-  "homepage": "http://laturitukku.github.io",
   "name": "svelte-app",
   "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public"
-    
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",

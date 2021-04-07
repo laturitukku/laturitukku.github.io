@@ -35,7 +35,7 @@
                 Toiminta 
             </div>
             <div class="text-xl font-thin">
-                Luotettavaa tukkumyyntiä suoraan valmistajalta
+                Luotettavaa tukkumyyntiä suoraan valmistajalta.
             </div>
         </div>
     </div>
