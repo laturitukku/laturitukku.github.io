@@ -48,7 +48,7 @@
                 Tuotteet 
             </div>
             <div class="text-xl font-thin">
-                Luotettavaa tukkumyyntiä suoraan valmistajalta
+                Tuotteet on kuratoitu luotettavilta valmistajilta.
             </div>
         </div>
     </div>
@@ -61,7 +61,7 @@
                 Maksaminen 
             </div>
             <div class="text-xl font-thin">
-                Luotettavaa tukkumyyntiä suoraan valmistajalta
+                Stripe maksualusta takaa turvallisen tavan maksaa pankkikortilla tai GooglePay:llä.
             </div>
         </div>
     </div>
@@ -74,7 +74,7 @@
                 Toimitus 
             </div>
             <div class="text-xl font-thin">
-                Luotettavaa tukkumyyntiä suoraan valmistajalta
+                Tuotteet toimitetaan ulkomailta 7 arkipäivän sisällä. 
             </div>
         </div>
     </div>
